@@ -3,3 +3,5 @@
 This is a test repository made  by Sergey
 
 More lines...
+
+tesing merge
