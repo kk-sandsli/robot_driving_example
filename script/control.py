@@ -7,7 +7,7 @@ from pybricks.tools import wait, StopWatch
 import sub
 
 hub = PrimeHub()
-hub.system.set_stop_button(Button.BLUETOOTH)
+hub.system.set_stop_button(Button.CENTER)
 
 while True:
     buttons_pressed = hub.buttons.pressed()
